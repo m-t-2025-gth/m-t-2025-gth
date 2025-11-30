@@ -1,5 +1,5 @@
 ***
-# 🎉 Welcome to m-t-2025-gth Page
+# 👋 Hi! I'm m-t-2025-gth 
 ***
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/get/@m-t-2025-gth?theme=rule34">
