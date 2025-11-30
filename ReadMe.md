@@ -26,3 +26,7 @@
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=m-t-2025-gth)
+
+# 🔗 Links
+[𝕏](https://x.com/m_t_2025_gth)          <br/>
+[Zenn](https://zenn.dev/m_t_2025_gth)    <br/>
