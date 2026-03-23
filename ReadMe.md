@@ -1,19 +1,23 @@
-***
-# 👋 Hi! I'm m-t-2025-gth 
-***
+---
+# 👋 Hi! I'm M Tee
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/get/@m-t-2025-gth?theme=rule34">
   <img height="120px" src="https://count.getloli.com/get/@m-t-2025-gth?theme=rule34"></img>
 </picture>
 
 # 👤 Profile
+
 - 👨🏻‍🎓 **HAL Osaka Japanese Student**
 - 🎮 **Game Dev and Unity Game Creater**
 
 ### 💛 Favorite
+
 - **Web Page / VRChat / Discord Bot / etc...**
 
-### ☑ Qualification 
+### ☑ Qualification
+
 - **None**
 
 # ⭐ Stats
@@ -28,5 +32,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=m-t-2025-gth)
 
 # 🔗 Links
-[𝕏](https://x.com/m_t_2025_gth)          <br/>
-[Zenn](https://zenn.dev/m_t_2025_gth)    <br/>
+
+[𝕏](https://x.com/m_t_2025_gth) <br/>
+[Zenn](https://zenn.dev/m_t_2025_gth) <br/>
